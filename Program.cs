@@ -12,7 +12,8 @@ namespace PIS_LAB1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Hello world!");
-
+            Console.WriteLine("dg edit");
+            Console.WriteLine("disi jerkooooo");
         }
     }
 }
